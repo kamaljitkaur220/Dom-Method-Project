@@ -1,0 +1,24 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    
+    background-color: brown;
+    column-rule-color:grey;
+}
+
+button {
+   
+   
+    background-color: black;
+    color: silver;
+    
+}
+input {
+   
+    color: silver;
+    
+    background-color: black;
+    
+}
